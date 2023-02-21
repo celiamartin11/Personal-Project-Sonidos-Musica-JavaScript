@@ -13,12 +13,12 @@ El proyecto consiste en una web sencilla e intuitiva donde podrás conocer un pe
 
 **Where The Oceans Fall** es un grupo de música de metalcore moderno que se formó en 2016 en Madrid (España). Compuesto por 6 integrantes: 
 
-- **Bruno** → Cantante del grupo. 
-- **David** → Cantante del grupo. 
-- **Diego** → Guitarrista del grupo. 
-- **Rafa** → Guitarrista del grupo. 
-- **Juan** → Bajista del grupo. 
-- **Iván** → Batería del grupo. 
+- **Bruno** → *Cantante del grupo*,
+- **David** → *Cantante del grupo*. 
+- **Diego Martín** → *Guitarrista del grupo*, 
+- **Rafa** → *Guitarrista del grupo*,
+- **Juan Porras** → *Bajista del grupo*,
+- **Iván Méndez** → *Batería del grupo*, 
 
 ## Links 🔗
 
