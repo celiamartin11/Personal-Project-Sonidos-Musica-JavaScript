@@ -59,5 +59,15 @@ kbd{
     box-shadow: 0 0 1rem #ffdd00;
 }
 
+.contain-info{
+    height: 10vh;
+}
+
+.info{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
   
 
