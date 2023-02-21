@@ -11,7 +11,7 @@ El proyecto consiste en una web sencilla e intuitiva donde podrás conocer un pe
 
 ## Conoce a *Where The Oceans Fall* 🤟🏻
 
-**Where The Oceans Fall** es un grupo de música de metalcore moderno que se formó en 2016 en Madrid (España). Compuesto por 6 integrantes: 
+**Where The Oceans Fall** es un grupo de música de metalcore moderno que se formó en 2016 en Madrid (España). Compuesto por: 
 
 - **Bruno** → *Cantante del grupo*,
 - **David** → *Cantante del grupo*. 
