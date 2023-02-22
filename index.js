@@ -9,7 +9,7 @@ function removeTransition(element){
 
 function addRemoveClass(element){
     element.classList.toggle('js-playing');
-    soundPlaying = setInterval( function() { removeTransition(element); }, 10000 );
+    soundPlaying = setInterval( function() { removeTransition(element); }, 8100 );
 }
 
 function sound(event){
